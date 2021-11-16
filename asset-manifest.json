@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/css/main.c2b5208a.chunk.css",
+    "main.js": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/js/main.937d6c99.chunk.js",
+    "main.js.map": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/js/main.937d6c99.chunk.js.map",
+    "runtime-main.js": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/js/runtime-main.2013d535.js",
+    "runtime-main.js.map": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/js/runtime-main.2013d535.js.map",
+    "static/js/2.884f660a.chunk.js": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/js/2.884f660a.chunk.js",
+    "static/js/2.884f660a.chunk.js.map": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/js/2.884f660a.chunk.js.map",
+    "index.html": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/index.html",
+    "static/css/main.c2b5208a.chunk.css.map": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/css/main.c2b5208a.chunk.css.map",
+    "static/js/2.884f660a.chunk.js.LICENSE.txt": "/%E2%80%9Chttp://abbasengineer.github.io/my-app/static/js/2.884f660a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2013d535.js",
+    "static/js/2.884f660a.chunk.js",
+    "static/css/main.c2b5208a.chunk.css",
+    "static/js/main.937d6c99.chunk.js"
+  ]
+}
